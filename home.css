@@ -1,0 +1,133 @@
+body{
+  font-family: "Montserrat";
+}
+h1
+{
+     font-family: "Montserrat-black";
+     font-size: 3rem;
+     line-height: 1.5;
+}
+
+h2
+{
+  font-family:  "Montserrat-bold"
+  font-size : 3rem;
+  line-height: 1.5;
+}
+h3
+{
+  font-weight: 550;
+}
+
+p
+{
+  font-family: "Ubuntu", sans-serif;
+}
+.container-fluid
+{
+  padding: 3% 15%;
+}
+
+#title{
+background-color: #ff4c68;
+/* Making title white by using #fff */
+color: #fff;
+}
+
+/* Navigation bar */
+.navbar{
+padding: 0  0  4.5rem;
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+.navbar-nav{
+  padding-right: 15%;
+}
+
+/* Download buttons */
+.download-button
+{
+  margin: 5% 3% 5% 0;
+}
+/* title image */
+.title-image
+{
+  width: 50%;
+}
+
+/* feature section */
+#features{
+  padding: 7% 15%;
+}
+.feature-box
+{
+  text-align : center;
+}
+
+/* Font awesome icon's color */
+.icon
+{
+  color: #ef8172;
+  margin-bottom:  1rem;
+}
+.icon:hover
+{
+  color: #ff4c68;
+}
+/* Testomonial Section */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+#testimonials:hover{
+  background-color: #ff4c68;
+}
+.testimonial-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* carousel section */
+.carousel-item
+{
+ padding: 7% 15%;
+}
+
+/* CONTACT SECTION AT THE END OF THE WEBSITE */
+#cta
+{
+  background-color:  #ff4c68;
+  margin-top: 10%;
+}
+/* Footer style */
+#footer
+{
+  padding: 7% 15%;
+  text-align:center;
+}
+.social-button
+{
+  margin: 20px 10px;
+  color: #ef8172;
+}
+.social-button:hover
+{
+    color: #ff4c68;
+}

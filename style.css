@@ -1,0 +1,78 @@
+body{
+  background-image: url("https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+}
+h2
+{
+  font-family: 'Dancing Script', cursive;
+
+  text-align: center;
+  padding: 15% 20% 0 20%;
+  color:#000;
+  font-size : 3rem;
+  line-height: 1.5;
+}
+
+
+
+/* title section */
+#title{
+/* Making title white by using #fff */
+color: #fff;
+}
+/* NAVBAR SECTION */
+.navbar
+{
+background-color: #ef8172;
+padding: 5px  0  5px;
+
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  color: #fff;
+}
+.navbar-nav{
+  padding-right: 15%;
+}
+
+/* Container Section */
+.d-flex
+{
+padding: 30px 30%;
+}
+/* Search button */
+.btn:hover{
+    background-color: #ef8172;
+}
+/* Upload button section */
+.dropdown-menu
+{
+  position: absolute;
+  width:55rem;
+}
+.form-control:hover
+{
+    background-color: #faebd7;
+}
+#formFile:hover
+{
+    background-color: #faebd7;
+}
+.dropdown-submit{
+padding: 0 45%;
+}
+.upload-button
+{
+  background-color: #ef8172;
+}
